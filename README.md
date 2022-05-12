@@ -1,0 +1,1 @@
+# Prevendo-valor-de-acoes---Investimentos-WEG-S.A.-WEG3.SA-
