@@ -9,9 +9,6 @@
 
 A empresa é uma das maiores fabricantes de equipamentos elétricos do mundo, atuando nas áreas de comando e proteção, variação de velocidade, automação de processos industriais, geração e distribuição de energia e tintas e vernizes industriais, entre outros produtos.
   
-# biblioteca para exibicão de vídeo do YouTube
-from IPython.display import YouTubeVideo
-
-# WEG - Vídeo institucional
-YouTubeVideo('u5FGUIasTLM', width=720, height=360)
+WEG - Vídeo institucional
+https://youtu.be/u5FGUIasTLM
   
