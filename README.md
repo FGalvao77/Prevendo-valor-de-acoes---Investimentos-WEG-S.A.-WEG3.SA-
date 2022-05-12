@@ -9,7 +9,5 @@
 
 A empresa é uma das maiores fabricantes de equipamentos elétricos do mundo, atuando nas áreas de comando e proteção, variação de velocidade, automação de processos industriais, geração e distribuição de energia e tintas e vernizes industriais, entre outros produtos.
   
-WEG - Vídeo institucional
-
-https://youtu.be/u5FGUIasTLM
+[WEG - Vídeo institucional](https://youtu.be/u5FGUIasTLM)
   
