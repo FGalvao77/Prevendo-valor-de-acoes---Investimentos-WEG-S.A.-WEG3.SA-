@@ -11,3 +11,5 @@ A empresa é uma das maiores fabricantes de equipamentos elétricos do mundo, at
   
 [WEG - Vídeo institucional](https://youtu.be/u5FGUIasTLM)
   
+✅ **SAIBA MAIS!**
+- https://pt.wikipedia.org/wiki/WEG_S.A.
